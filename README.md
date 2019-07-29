@@ -1,2 +1,3 @@
 # RNA_difExp
-R
+
+AML RNA differential expression analysis.
