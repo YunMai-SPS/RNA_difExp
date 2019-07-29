@@ -1,0 +1,237 @@
+Hugo_Symbol	Entrez_Gene_Id	Center	Tumor_Sample_Barcode	Fusion	DNA_support	RNA_support	Method	Frame
+IFNGR2	NA	washu.edu	TCGA-AB-2908-03	IFNGR2(+)GART(+) fusion (Unknown frame)	unknown	unknown	unknown	unknown
+PML	NA	washu.edu	TCGA-AB-2803-03	PML(+)RARA(+) fusion (In-frame)	unknown	unknown	unknown	unknown
+CDC2L1	NA	washu.edu	TCGA-AB-2806-03	CDC2L1(-)SLC35E2(-) fusion (Out-of-frame)	unknown	unknown	unknown	unknown
+RUNX1	NA	washu.edu	TCGA-AB-2806-03	RUNX1(+)RUNX1T1(+) fusion (Unknown frame)	unknown	unknown	unknown	unknown
+GAS6	NA	washu.edu	TCGA-AB-2814-03	GAS6(-)FAM70B(+) fusion (Out-of-frame)	unknown	unknown	unknown	unknown
+MYH11	NA	washu.edu	TCGA-AB-2815-03	MYH11(+)CBFB(+) fusion (Unknown frame)	unknown	unknown	unknown	unknown
+BCR	NA	washu.edu	TCGA-AB-2817-03	BCR(+)ABL1(+) fusion (In-frame)	unknown	unknown	unknown	unknown
+RUNX1	NA	washu.edu	TCGA-AB-2819-03	RUNX1(+)RUNX1T1(+) fusion (Unknown)	unknown	unknown	unknown	unknown
+GOSR1	NA	washu.edu	TCGA-AB-2820-03	GOSR1(-)ZNF207(-) fusion (In-frame)	unknown	unknown	unknown	unknown
+PML	NA	washu.edu	TCGA-AB-2823-03	PML(-)RARA(-) fusion (Unknown frame)	unknown	unknown	unknown	unknown
+MYH11	NA	washu.edu	TCGA-AB-2828-03	MYH11(-)CBFB(-) fusion (Unknown)	unknown	unknown	unknown	unknown
+TFG	NA	washu.edu	TCGA-AB-2828-03	TFG(+)GPR128(+) fusion (In-frame)	unknown	unknown	unknown	unknown
+KIAA0999	NA	washu.edu	TCGA-AB-2832-03	KIAA0999(+)C11orf1(+) fusion (In-frame)	unknown	unknown	unknown	unknown
+MLLT10	NA	washu.edu	TCGA-AB-2832-03	MLLT10(+)PPP2R1B(+) fusion (In-frame)	unknown	unknown	unknown	unknown
+PPP2R1B	NA	washu.edu	TCGA-AB-2832-03	PPP2R1B(-)KIAA0999(+) fusion (Out-of-frame)	unknown	unknown	unknown	unknown
+MLL	NA	washu.edu	TCGA-AB-2834-03	MLL(+)ELL(+) fusion (Unknown frame)	unknown	unknown	unknown	unknown
+AF086125	NA	washu.edu	TCGA-AB-2838-03	AF086125(+)USP22(+) fusion (Out-of-frame)	unknown	unknown	unknown	unknown
+CA7	NA	washu.edu	TCGA-AB-2838-03	CA7(+)USP22(-) fusion (Unknown)	unknown	unknown	unknown	unknown
+ACAD10	NA	washu.edu	TCGA-AB-2840-03	ACAD10(-)MAPKAPK5(-) fusion (Out-of-frame)	unknown	unknown	unknown	unknown
+GAS6	NA	washu.edu	TCGA-AB-2840-03	GAS6(+)FAM70B(-) fusion (Out-of-frame)	unknown	unknown	unknown	unknown
+PML	NA	washu.edu	TCGA-AB-2840-03	PML(+)RARA(+) fusion (Out-of-frame)	unknown	unknown	unknown	unknown
+PML	NA	washu.edu	TCGA-AB-2841-03	PML(+)RARA(+) fusion (Unknown frame)	unknown	unknown	unknown	unknown
+MLLT10	NA	washu.edu	TCGA-AB-2842-03	MLLT10(+)MLL(+) fusion (In-frame)	unknown	unknown	unknown	unknown
+MLL	NA	washu.edu	TCGA-AB-2844-03	MLL(-)ELL(-) fusion (In-frame)	unknown	unknown	unknown	unknown
+MYH11	NA	washu.edu	TCGA-AB-2846-03	MYH11(+)CBFB(+) fusion (Unknown frame)	unknown	unknown	unknown	unknown
+NCOR2	NA	washu.edu	TCGA-AB-2848-03	NCOR2(-)SCARB1(-) fusion (Unknown frame)	unknown	unknown	unknown	unknown
+MLLT10	NA	washu.edu	TCGA-AB-2849-03	MLLT10(+)PICALM(+) fusion (Unknown frame)	unknown	unknown	unknown	unknown
+RUNX1	NA	washu.edu	TCGA-AB-2854-03	RUNX1(+)ADAMTS19(-) fusion (Out-of-frame)	unknown	unknown	unknown	unknown
+RUNX1	NA	washu.edu	TCGA-AB-2854-03	RUNX1(+)PRRC1(+) fusion (Out-of-frame)	unknown	unknown	unknown	unknown
+GAS6	NA	washu.edu	TCGA-AB-2855-03	GAS6(+)FAM70B(-) fusion (Unknown)	unknown	unknown	unknown	unknown
+MLLT10	NA	washu.edu	TCGA-AB-2855-03	MLLT10(-)PICALM(-) fusion (In-frame)	unknown	unknown	unknown	unknown
+PICALM	NA	washu.edu	TCGA-AB-2855-03	PICALM(+)MLLT10(+) fusion (In-frame)	unknown	unknown	unknown	unknown
+NSD1	NA	washu.edu	TCGA-AB-2856-03	NSD1(+)NUP98(+) fusion (In-frame)	unknown	unknown	unknown	unknown
+DDX20	NA	washu.edu	TCGA-AB-2857-03	DDX20(+)TBX15(-) fusion (In-frame)	unknown	unknown	unknown	unknown
+WDR18	NA	washu.edu	TCGA-AB-2857-03	WDR18(-)H2AFX(-) fusion (In-frame)	unknown	unknown	unknown	unknown
+ZNF585B	NA	washu.edu	TCGA-AB-2857-03	ZNF585B(-)C2CD2L(+) fusion (In-frame)	unknown	unknown	unknown	unknown
+CRTC2	NA	washu.edu	TCGA-AB-2858-03	CRTC2(+)CREB3L4(-) fusion (Unknown frame)	unknown	unknown	unknown	unknown
+RUNX1	NA	washu.edu	TCGA-AB-2858-03	RUNX1(+)RUNX1T1(+) fusion (In-frame)	unknown	unknown	unknown	unknown
+USP25	NA	washu.edu	TCGA-AB-2860-03	USP25(+)TRAPPC10(-) fusion (Unknown)	unknown	unknown	unknown	unknown
+PML	NA	washu.edu	TCGA-AB-2862-03	PML(-)RARA(-) fusion (In-frame)	unknown	unknown	unknown	unknown
+NEK1	NA	washu.edu	TCGA-AB-2868-03	NEK1(-)CLCN3(+) fusion (Unknown)	unknown	unknown	unknown	unknown
+NR6A1	NA	washu.edu	TCGA-AB-2868-03	NR6A1(+)OBP2B(-) fusion (Unknown)	unknown	unknown	unknown	unknown
+ZNF483	NA	washu.edu	TCGA-AB-2868-03	ZNF483(-)GAPVD1(+) fusion (Unknown)	unknown	unknown	unknown	unknown
+MYH11	NA	washu.edu	TCGA-AB-2870-03	MYH11(-)CBFB(-) fusion (Out-of-frame)	unknown	unknown	unknown	unknown
+TBC1D16	NA	washu.edu	TCGA-AB-2870-03	TBC1D16(-)KIAA1618(+) fusion (Out-of-frame)	unknown	unknown	unknown	unknown
+PML	NA	washu.edu	TCGA-AB-2872-03	PML(+)RARA(+) fusion (In-frame)	unknown	unknown	unknown	unknown
+RUNX1	NA	washu.edu	TCGA-AB-2875-03	RUNX1(+)RUNX1T1(+) fusion (In-frame)	unknown	unknown	unknown	unknown
+CR593328	NA	washu.edu	TCGA-AB-2876-03	CR593328(-)FAM49B(+) fusion (Out-of-frame)	unknown	unknown	unknown	unknown
+PVT1	NA	washu.edu	TCGA-AB-2876-03	PVT1(+)ASAP1(+) fusion (Out-of-frame)	unknown	unknown	unknown	unknown
+TFG	NA	washu.edu	TCGA-AB-2877-03	TFG(+)GPR128(+) fusion (In-frame)	unknown	unknown	unknown	unknown
+MYH11	NA	washu.edu	TCGA-AB-2881-03	MYH11(-)CBFB(-) fusion (In-frame)	unknown	unknown	unknown	unknown
+MLL	NA	washu.edu	TCGA-AB-2883-03	MLL(+)MLLT4(+) fusion (In-frame)	unknown	unknown	unknown	unknown
+KSR2	NA	washu.edu	TCGA-AB-2885-03	KSR2(-)SETMAR(+) fusion (Unknown frame)	unknown	unknown	unknown	unknown
+RUNX1	NA	washu.edu	TCGA-AB-2886-03	RUNX1(+)RUNX1T1(+) fusion (In-frame)	unknown	unknown	unknown	unknown
+MYH11	NA	washu.edu	TCGA-AB-2888-03	MYH11(+)CBFB(+) fusion (Unknown frame)	unknown	unknown	unknown	unknown
+MYH11	NA	washu.edu	TCGA-AB-2892-03	MYH11(+)CBFB(+) fusion (In-frame)	unknown	unknown	unknown	unknown
+MLL	NA	washu.edu	TCGA-AB-2893-03	MLL(+)MLLT4(+) fusion (In-frame)	unknown	unknown	unknown	unknown
+MLL	NA	washu.edu	TCGA-AB-2894-03	MLL(+)MLLT3(+) fusion (In-frame)	unknown	unknown	unknown	unknown
+PML	NA	washu.edu	TCGA-AB-2897-03	PML(+)RARA(+) fusion (In-frame)	unknown	unknown	unknown	unknown
+BCR	NA	washu.edu	TCGA-AB-2901-03	BCR(+)ABL1(+) fusion (Unknown frame)	unknown	unknown	unknown	unknown
+SEC63	NA	washu.edu	TCGA-AB-2901-03	SEC63(+)FIG4(+) fusion (Out-of-frame)	unknown	unknown	unknown	unknown
+MDM4	NA	washu.edu	TCGA-AB-2904-03	MDM4(+)DNMT3B(+) fusion (Unknown)	unknown	unknown	unknown	unknown
+CREBBP	NA	washu.edu	TCGA-AB-2910-03	CREBBP(+)MYST3(+) fusion (Unknown frame)	unknown	unknown	unknown	unknown
+MLL	NA	washu.edu	TCGA-AB-2911-03	MLL(+)ELL(+) fusion (In-frame)	unknown	unknown	unknown	unknown
+RPS11	NA	washu.edu	TCGA-AB-2912-03	RPS11(+)FLT3LG(+) fusion (In-frame)	unknown	unknown	unknown	unknown
+FOXP1	NA	washu.edu	TCGA-AB-2914-03	FOXP1(+)PPP1R2(-) fusion (Out-of-frame)	unknown	unknown	unknown	unknown
+MYH11	NA	washu.edu	TCGA-AB-2914-03	MYH11(-)CBFB(-) fusion (In-frame)	unknown	unknown	unknown	unknown
+DPM1	NA	washu.edu	TCGA-AB-2915-03	DPM1(+)GRID1(+) fusion (In-frame)	unknown	unknown	unknown	unknown
+RUNX1	NA	washu.edu	TCGA-AB-2915-03	RUNX1(+)EVI1(+) fusion (Unknown frame)	unknown	unknown	unknown	unknown
+NSD1	NA	washu.edu	TCGA-AB-2918-03	NSD1(-)STIM1(+) fusion (Out-of-frame)	unknown	unknown	unknown	unknown
+TFG	NA	washu.edu	TCGA-AB-2918-03	TFG(+)GPR128(+) fusion (Unknown frame)	unknown	unknown	unknown	unknown
+C12orf59	NA	washu.edu	TCGA-AB-2920-03	C12orf59(-)XIAP(+) fusion (Unknown frame)	unknown	unknown	unknown	unknown
+CHST11	NA	washu.edu	TCGA-AB-2920-03	CHST11(-)ATP1B4(-) fusion (In-frame)	unknown	unknown	unknown	unknown
+CHST11	NA	washu.edu	TCGA-AB-2920-03	CHST11(-)FAM70A(+) fusion (Unknown frame)	unknown	unknown	unknown	unknown
+KPNB1	NA	washu.edu	TCGA-AB-2920-03	KPNB1(+)ACE(+) fusion (In-frame)	unknown	unknown	unknown	unknown
+KSR1	NA	washu.edu	TCGA-AB-2920-03	KSR1(-)ODZ1(-) fusion (In-frame)	unknown	unknown	unknown	unknown
+PTPN2	NA	washu.edu	TCGA-AB-2920-03	PTPN2(+)UBLCP1(+) fusion (Unknown frame)	unknown	unknown	unknown	unknown
+WSB1	NA	washu.edu	TCGA-AB-2920-03	WSB1(+)NBR1(+) fusion (In-frame)	unknown	unknown	unknown	unknown
+XIAP	NA	washu.edu	TCGA-AB-2920-03	XIAP(+)OLR1(+) fusion (In-frame)	unknown	unknown	unknown	unknown
+NSD1	NA	washu.edu	TCGA-AB-2930-03	NSD1(-)NUP98(-) fusion (In-frame)	unknown	unknown	unknown	unknown
+NUP98	NA	washu.edu	TCGA-AB-2930-03	NUP98(+)NSD1(+) fusion (In-frame)	unknown	unknown	unknown	unknown
+LTBP1	NA	washu.edu	TCGA-AB-2931-03	LTBP1(+)BIRC6(+) fusion (In-frame)	unknown	unknown	unknown	unknown
+MLL3	NA	washu.edu	TCGA-AB-2932-03	MLL3(+)ACTR3B(-) fusion (Unknown frame)	unknown	unknown	unknown	unknown
+RUNX1	NA	washu.edu	TCGA-AB-2937-03	RUNX1(+)RUNX1T1(+) fusion (In-frame)	unknown	unknown	unknown	unknown
+NVL	NA	washu.edu	TCGA-AB-2938-03	NVL(-)FMN2(+) fusion (Out-of-frame)	unknown	unknown	unknown	unknown
+POLR2A	NA	washu.edu	TCGA-AB-2938-03	POLR2A(-)FBN3(-) fusion (Unknown frame)	unknown	unknown	unknown	unknown
+TNK1	NA	washu.edu	TCGA-AB-2938-03	TNK1(-)ZBTB7A(-) fusion (Out-of-frame)	unknown	unknown	unknown	unknown
+CDC73	NA	washu.edu	TCGA-AB-2939-03	CDC73(+)FAM172A(+) fusion (Unknown frame)	unknown	unknown	unknown	unknown
+EDIL3	NA	washu.edu	TCGA-AB-2939-03	EDIL3(-)MKLN1(-) fusion (Unknown frame)	unknown	unknown	unknown	unknown
+FRAP1	NA	washu.edu	TCGA-AB-2939-03	FRAP1(+)CHD1(+) fusion (Unknown frame)	unknown	unknown	unknown	unknown
+BCR	NA	washu.edu	TCGA-AB-2941-03	BCR(+)ABL1(+) fusion (Unknown frame)	unknown	unknown	unknown	unknown
+DOCK6	NA	washu.edu	TCGA-AB-2941-03	DOCK6(-)CCDC130(+) fusion (Out-of-frame)	unknown	unknown	unknown	unknown
+MYH11	NA	washu.edu	TCGA-AB-2942-03	MYH11(+)CBFB(+) fusion (Out-of-frame)	unknown	unknown	unknown	unknown
+RSAD2	NA	washu.edu	TCGA-AB-2943-03	RSAD2(-)ELMOD3(+) fusion (Unknown frame)	unknown	unknown	unknown	unknown
+RSAD2	NA	washu.edu	TCGA-AB-2943-03	RSAD2(+)ELMOD3(-) fusion (Unknown frame)	unknown	unknown	unknown	unknown
+RPN1	NA	washu.edu	TCGA-AB-2944-03	RPN1(+)EVI1(+) fusion (Out-of-frame)	unknown	unknown	unknown	unknown
+RUNX1	NA	washu.edu	TCGA-AB-2950-03	RUNX1(+)RUNX1T1(+) fusion (In-frame)	unknown	unknown	unknown	unknown
+NF1	NA	washu.edu	TCGA-AB-2952-03	NF1(+)LRRC37B(+) fusion (In-frame)	unknown	unknown	unknown	unknown
+MYH11	NA	washu.edu	TCGA-AB-2954-03	MYH11(+)CBFB(+) fusion (Unknown frame)	unknown	unknown	unknown	unknown
+UBR4	NA	washu.edu	TCGA-AB-2955-03	UBR4(+)ZFP37(+) fusion (Out-of-frame)	unknown	unknown	unknown	unknown
+MLL	NA	washu.edu	TCGA-AB-2956-03	MLL(-)MLLT3(-) fusion (Unknown frame)	unknown	unknown	unknown	unknown
+VTI1B	NA	washu.edu	TCGA-AB-2956-03	VTI1B(-)RDH11(-) fusion (Unknown frame)	unknown	unknown	unknown	unknown
+BCL11A	NA	washu.edu	TCGA-AB-2975-03	BCL11A(-)GRIP2(-) fusion (Out-of-frame)	unknown	unknown	unknown	unknown
+LRBA	NA	washu.edu	TCGA-AB-2979-03	LRBA(+)SH3D19(+) fusion (Out-of-frame)	unknown	unknown	unknown	unknown
+PML	NA	washu.edu	TCGA-AB-2980-03	PML(+)RARA(+) fusion (Unknown frame)	unknown	unknown	unknown	unknown
+CUL1	NA	washu.edu	TCGA-AB-2982-03	CUL1(+)DPP6(-) fusion (Unknown frame)	unknown	unknown	unknown	unknown
+PML	NA	washu.edu	TCGA-AB-2982-03	PML(-)RARA(-) fusion (Unknown frame)	unknown	unknown	unknown	unknown
+MLLT10	NA	washu.edu	TCGA-AB-2985-03	MLLT10(+)CEP164(-) fusion (Out-of-frame)	unknown	unknown	unknown	unknown
+MLLT10	NA	washu.edu	TCGA-AB-2985-03	MLLT10(+)MLL(+) fusion (In-frame)	unknown	unknown	unknown	unknown
+PML	NA	washu.edu	TCGA-AB-2991-03	PML(+)RARA(+) fusion (Unknown frame)	unknown	unknown	unknown	unknown
+PML	NA	washu.edu	TCGA-AB-2994-03	PML(+)RARA(+) fusion (In-frame)	unknown	unknown	unknown	unknown
+PML	NA	washu.edu	TCGA-AB-2998-03	PML(+)RARA(+) fusion (Unknown frame)	unknown	unknown	unknown	unknown
+PML	NA	washu.edu	TCGA-AB-2999-03	PML(-)RARA(-) fusion (In-frame)	unknown	unknown	unknown	unknown
+PML	NA	washu.edu	TCGA-AB-3001-03	PML(+)RARA(+) fusion (Unknown frame)	unknown	unknown	unknown	unknown
+MLLT10	NA	washu.edu	TCGA-AB-3005-03	MLLT10(+)MLL(+) fusion (In-frame)	unknown	unknown	unknown	unknown
+PLAUR	NA	washu.edu	TCGA-AB-3007-03	PLAUR(+)EXOC3L2(-) fusion (Unknown frame)	unknown	unknown	unknown	unknown
+PML	NA	washu.edu	TCGA-AB-3007-03	PML(+)RARA(+) fusion (Unknown frame)	unknown	unknown	unknown	unknown
+PML	NA	washu.edu	TCGA-AB-3012-03	PML(+)RARA(+) fusion (In-frame)	unknown	unknown	unknown	unknown
+GART	NA	washu.edu	TCGA-AB-2908-03	IFNGR2(+)GART(+) fusion (Unknown frame)	unknown	unknown	unknown	unknown
+RARA	NA	washu.edu	TCGA-AB-2803-03	PML(+)RARA(+) fusion (In-frame)	unknown	unknown	unknown	unknown
+SLC35E2	NA	washu.edu	TCGA-AB-2806-03	CDC2L1(-)SLC35E2(-) fusion (Out-of-frame)	unknown	unknown	unknown	unknown
+RUNX1T1	NA	washu.edu	TCGA-AB-2806-03	RUNX1(+)RUNX1T1(+) fusion (Unknown frame)	unknown	unknown	unknown	unknown
+FAM70B	NA	washu.edu	TCGA-AB-2814-03	GAS6(-)FAM70B(+) fusion (Out-of-frame)	unknown	unknown	unknown	unknown
+CBFB	NA	washu.edu	TCGA-AB-2815-03	MYH11(+)CBFB(+) fusion (Unknown frame)	unknown	unknown	unknown	unknown
+ABL1	NA	washu.edu	TCGA-AB-2817-03	BCR(+)ABL1(+) fusion (In-frame)	unknown	unknown	unknown	unknown
+RUNX1T1	NA	washu.edu	TCGA-AB-2819-03	RUNX1(+)RUNX1T1(+) fusion (Unknown)	unknown	unknown	unknown	unknown
+ZNF207	NA	washu.edu	TCGA-AB-2820-03	GOSR1(-)ZNF207(-) fusion (In-frame)	unknown	unknown	unknown	unknown
+RARA	NA	washu.edu	TCGA-AB-2823-03	PML(-)RARA(-) fusion (Unknown frame)	unknown	unknown	unknown	unknown
+CBFB	NA	washu.edu	TCGA-AB-2828-03	MYH11(-)CBFB(-) fusion (Unknown)	unknown	unknown	unknown	unknown
+GPR128	NA	washu.edu	TCGA-AB-2828-03	TFG(+)GPR128(+) fusion (In-frame)	unknown	unknown	unknown	unknown
+C11orf1	NA	washu.edu	TCGA-AB-2832-03	KIAA0999(+)C11orf1(+) fusion (In-frame)	unknown	unknown	unknown	unknown
+PPP2R1B	NA	washu.edu	TCGA-AB-2832-03	MLLT10(+)PPP2R1B(+) fusion (In-frame)	unknown	unknown	unknown	unknown
+KIAA0999	NA	washu.edu	TCGA-AB-2832-03	PPP2R1B(-)KIAA0999(+) fusion (Out-of-frame)	unknown	unknown	unknown	unknown
+ELL	NA	washu.edu	TCGA-AB-2834-03	MLL(+)ELL(+) fusion (Unknown frame)	unknown	unknown	unknown	unknown
+USP22	NA	washu.edu	TCGA-AB-2838-03	AF086125(+)USP22(+) fusion (Out-of-frame)	unknown	unknown	unknown	unknown
+USP22	NA	washu.edu	TCGA-AB-2838-03	CA7(+)USP22(-) fusion (Unknown)	unknown	unknown	unknown	unknown
+MAPKAPK5	NA	washu.edu	TCGA-AB-2840-03	ACAD10(-)MAPKAPK5(-) fusion (Out-of-frame)	unknown	unknown	unknown	unknown
+FAM70B	NA	washu.edu	TCGA-AB-2840-03	GAS6(+)FAM70B(-) fusion (Out-of-frame)	unknown	unknown	unknown	unknown
+RARA	NA	washu.edu	TCGA-AB-2840-03	PML(+)RARA(+) fusion (Out-of-frame)	unknown	unknown	unknown	unknown
+RARA	NA	washu.edu	TCGA-AB-2841-03	PML(+)RARA(+) fusion (Unknown frame)	unknown	unknown	unknown	unknown
+MLL	NA	washu.edu	TCGA-AB-2842-03	MLLT10(+)MLL(+) fusion (In-frame)	unknown	unknown	unknown	unknown
+ELL	NA	washu.edu	TCGA-AB-2844-03	MLL(-)ELL(-) fusion (In-frame)	unknown	unknown	unknown	unknown
+CBFB	NA	washu.edu	TCGA-AB-2846-03	MYH11(+)CBFB(+) fusion (Unknown frame)	unknown	unknown	unknown	unknown
+SCARB1	NA	washu.edu	TCGA-AB-2848-03	NCOR2(-)SCARB1(-) fusion (Unknown frame)	unknown	unknown	unknown	unknown
+PICALM	NA	washu.edu	TCGA-AB-2849-03	MLLT10(+)PICALM(+) fusion (Unknown frame)	unknown	unknown	unknown	unknown
+ADAMTS19	NA	washu.edu	TCGA-AB-2854-03	RUNX1(+)ADAMTS19(-) fusion (Out-of-frame)	unknown	unknown	unknown	unknown
+PRRC1	NA	washu.edu	TCGA-AB-2854-03	RUNX1(+)PRRC1(+) fusion (Out-of-frame)	unknown	unknown	unknown	unknown
+FAM70B	NA	washu.edu	TCGA-AB-2855-03	GAS6(+)FAM70B(-) fusion (Unknown)	unknown	unknown	unknown	unknown
+PICALM	NA	washu.edu	TCGA-AB-2855-03	MLLT10(-)PICALM(-) fusion (In-frame)	unknown	unknown	unknown	unknown
+MLLT10	NA	washu.edu	TCGA-AB-2855-03	PICALM(+)MLLT10(+) fusion (In-frame)	unknown	unknown	unknown	unknown
+NUP98	NA	washu.edu	TCGA-AB-2856-03	NSD1(+)NUP98(+) fusion (In-frame)	unknown	unknown	unknown	unknown
+TBX15	NA	washu.edu	TCGA-AB-2857-03	DDX20(+)TBX15(-) fusion (In-frame)	unknown	unknown	unknown	unknown
+H2AFX	NA	washu.edu	TCGA-AB-2857-03	WDR18(-)H2AFX(-) fusion (In-frame)	unknown	unknown	unknown	unknown
+C2CD2L	NA	washu.edu	TCGA-AB-2857-03	ZNF585B(-)C2CD2L(+) fusion (In-frame)	unknown	unknown	unknown	unknown
+CREB3L4	NA	washu.edu	TCGA-AB-2858-03	CRTC2(+)CREB3L4(-) fusion (Unknown frame)	unknown	unknown	unknown	unknown
+RUNX1T1	NA	washu.edu	TCGA-AB-2858-03	RUNX1(+)RUNX1T1(+) fusion (In-frame)	unknown	unknown	unknown	unknown
+TRAPPC10	NA	washu.edu	TCGA-AB-2860-03	USP25(+)TRAPPC10(-) fusion (Unknown)	unknown	unknown	unknown	unknown
+RARA	NA	washu.edu	TCGA-AB-2862-03	PML(-)RARA(-) fusion (In-frame)	unknown	unknown	unknown	unknown
+CLCN3	NA	washu.edu	TCGA-AB-2868-03	NEK1(-)CLCN3(+) fusion (Unknown)	unknown	unknown	unknown	unknown
+OBP2B	NA	washu.edu	TCGA-AB-2868-03	NR6A1(+)OBP2B(-) fusion (Unknown)	unknown	unknown	unknown	unknown
+GAPVD1	NA	washu.edu	TCGA-AB-2868-03	ZNF483(-)GAPVD1(+) fusion (Unknown)	unknown	unknown	unknown	unknown
+CBFB	NA	washu.edu	TCGA-AB-2870-03	MYH11(-)CBFB(-) fusion (Out-of-frame)	unknown	unknown	unknown	unknown
+KIAA1618	NA	washu.edu	TCGA-AB-2870-03	TBC1D16(-)KIAA1618(+) fusion (Out-of-frame)	unknown	unknown	unknown	unknown
+RARA	NA	washu.edu	TCGA-AB-2872-03	PML(+)RARA(+) fusion (In-frame)	unknown	unknown	unknown	unknown
+RUNX1T1	NA	washu.edu	TCGA-AB-2875-03	RUNX1(+)RUNX1T1(+) fusion (In-frame)	unknown	unknown	unknown	unknown
+FAM49B	NA	washu.edu	TCGA-AB-2876-03	CR593328(-)FAM49B(+) fusion (Out-of-frame)	unknown	unknown	unknown	unknown
+ASAP1	NA	washu.edu	TCGA-AB-2876-03	PVT1(+)ASAP1(+) fusion (Out-of-frame)	unknown	unknown	unknown	unknown
+GPR128	NA	washu.edu	TCGA-AB-2877-03	TFG(+)GPR128(+) fusion (In-frame)	unknown	unknown	unknown	unknown
+CBFB	NA	washu.edu	TCGA-AB-2881-03	MYH11(-)CBFB(-) fusion (In-frame)	unknown	unknown	unknown	unknown
+MLLT4	NA	washu.edu	TCGA-AB-2883-03	MLL(+)MLLT4(+) fusion (In-frame)	unknown	unknown	unknown	unknown
+SETMAR	NA	washu.edu	TCGA-AB-2885-03	KSR2(-)SETMAR(+) fusion (Unknown frame)	unknown	unknown	unknown	unknown
+RUNX1T1	NA	washu.edu	TCGA-AB-2886-03	RUNX1(+)RUNX1T1(+) fusion (In-frame)	unknown	unknown	unknown	unknown
+CBFB	NA	washu.edu	TCGA-AB-2888-03	MYH11(+)CBFB(+) fusion (Unknown frame)	unknown	unknown	unknown	unknown
+CBFB	NA	washu.edu	TCGA-AB-2892-03	MYH11(+)CBFB(+) fusion (In-frame)	unknown	unknown	unknown	unknown
+MLLT4	NA	washu.edu	TCGA-AB-2893-03	MLL(+)MLLT4(+) fusion (In-frame)	unknown	unknown	unknown	unknown
+MLLT3	NA	washu.edu	TCGA-AB-2894-03	MLL(+)MLLT3(+) fusion (In-frame)	unknown	unknown	unknown	unknown
+RARA	NA	washu.edu	TCGA-AB-2897-03	PML(+)RARA(+) fusion (In-frame)	unknown	unknown	unknown	unknown
+ABL1	NA	washu.edu	TCGA-AB-2901-03	BCR(+)ABL1(+) fusion (Unknown frame)	unknown	unknown	unknown	unknown
+FIG4	NA	washu.edu	TCGA-AB-2901-03	SEC63(+)FIG4(+) fusion (Out-of-frame)	unknown	unknown	unknown	unknown
+DNMT3B	NA	washu.edu	TCGA-AB-2904-03	MDM4(+)DNMT3B(+) fusion (Unknown)	unknown	unknown	unknown	unknown
+MYST3	NA	washu.edu	TCGA-AB-2910-03	CREBBP(+)MYST3(+) fusion (Unknown frame)	unknown	unknown	unknown	unknown
+ELL	NA	washu.edu	TCGA-AB-2911-03	MLL(+)ELL(+) fusion (In-frame)	unknown	unknown	unknown	unknown
+FLT3LG	NA	washu.edu	TCGA-AB-2912-03	RPS11(+)FLT3LG(+) fusion (In-frame)	unknown	unknown	unknown	unknown
+PPP1R2	NA	washu.edu	TCGA-AB-2914-03	FOXP1(+)PPP1R2(-) fusion (Out-of-frame)	unknown	unknown	unknown	unknown
+CBFB	NA	washu.edu	TCGA-AB-2914-03	MYH11(-)CBFB(-) fusion (In-frame)	unknown	unknown	unknown	unknown
+GRID1	NA	washu.edu	TCGA-AB-2915-03	DPM1(+)GRID1(+) fusion (In-frame)	unknown	unknown	unknown	unknown
+EVI1	NA	washu.edu	TCGA-AB-2915-03	RUNX1(+)EVI1(+) fusion (Unknown frame)	unknown	unknown	unknown	unknown
+STIM1	NA	washu.edu	TCGA-AB-2918-03	NSD1(-)STIM1(+) fusion (Out-of-frame)	unknown	unknown	unknown	unknown
+GPR128	NA	washu.edu	TCGA-AB-2918-03	TFG(+)GPR128(+) fusion (Unknown frame)	unknown	unknown	unknown	unknown
+XIAP	NA	washu.edu	TCGA-AB-2920-03	C12orf59(-)XIAP(+) fusion (Unknown frame)	unknown	unknown	unknown	unknown
+ATP1B4	NA	washu.edu	TCGA-AB-2920-03	CHST11(-)ATP1B4(-) fusion (In-frame)	unknown	unknown	unknown	unknown
+FAM70A	NA	washu.edu	TCGA-AB-2920-03	CHST11(-)FAM70A(+) fusion (Unknown frame)	unknown	unknown	unknown	unknown
+ACE	NA	washu.edu	TCGA-AB-2920-03	KPNB1(+)ACE(+) fusion (In-frame)	unknown	unknown	unknown	unknown
+ODZ1	NA	washu.edu	TCGA-AB-2920-03	KSR1(-)ODZ1(-) fusion (In-frame)	unknown	unknown	unknown	unknown
+UBLCP1	NA	washu.edu	TCGA-AB-2920-03	PTPN2(+)UBLCP1(+) fusion (Unknown frame)	unknown	unknown	unknown	unknown
+NBR1	NA	washu.edu	TCGA-AB-2920-03	WSB1(+)NBR1(+) fusion (In-frame)	unknown	unknown	unknown	unknown
+OLR1	NA	washu.edu	TCGA-AB-2920-03	XIAP(+)OLR1(+) fusion (In-frame)	unknown	unknown	unknown	unknown
+NUP98	NA	washu.edu	TCGA-AB-2930-03	NSD1(-)NUP98(-) fusion (In-frame)	unknown	unknown	unknown	unknown
+NSD1	NA	washu.edu	TCGA-AB-2930-03	NUP98(+)NSD1(+) fusion (In-frame)	unknown	unknown	unknown	unknown
+BIRC6	NA	washu.edu	TCGA-AB-2931-03	LTBP1(+)BIRC6(+) fusion (In-frame)	unknown	unknown	unknown	unknown
+ACTR3B	NA	washu.edu	TCGA-AB-2932-03	MLL3(+)ACTR3B(-) fusion (Unknown frame)	unknown	unknown	unknown	unknown
+RUNX1T1	NA	washu.edu	TCGA-AB-2937-03	RUNX1(+)RUNX1T1(+) fusion (In-frame)	unknown	unknown	unknown	unknown
+FMN2	NA	washu.edu	TCGA-AB-2938-03	NVL(-)FMN2(+) fusion (Out-of-frame)	unknown	unknown	unknown	unknown
+FBN3	NA	washu.edu	TCGA-AB-2938-03	POLR2A(-)FBN3(-) fusion (Unknown frame)	unknown	unknown	unknown	unknown
+ZBTB7A	NA	washu.edu	TCGA-AB-2938-03	TNK1(-)ZBTB7A(-) fusion (Out-of-frame)	unknown	unknown	unknown	unknown
+FAM172A	NA	washu.edu	TCGA-AB-2939-03	CDC73(+)FAM172A(+) fusion (Unknown frame)	unknown	unknown	unknown	unknown
+MKLN1	NA	washu.edu	TCGA-AB-2939-03	EDIL3(-)MKLN1(-) fusion (Unknown frame)	unknown	unknown	unknown	unknown
+CHD1	NA	washu.edu	TCGA-AB-2939-03	FRAP1(+)CHD1(+) fusion (Unknown frame)	unknown	unknown	unknown	unknown
+ABL1	NA	washu.edu	TCGA-AB-2941-03	BCR(+)ABL1(+) fusion (Unknown frame)	unknown	unknown	unknown	unknown
+CCDC130	NA	washu.edu	TCGA-AB-2941-03	DOCK6(-)CCDC130(+) fusion (Out-of-frame)	unknown	unknown	unknown	unknown
+CBFB	NA	washu.edu	TCGA-AB-2942-03	MYH11(+)CBFB(+) fusion (Out-of-frame)	unknown	unknown	unknown	unknown
+ELMOD3	NA	washu.edu	TCGA-AB-2943-03	RSAD2(-)ELMOD3(+) fusion (Unknown frame)	unknown	unknown	unknown	unknown
+ELMOD3	NA	washu.edu	TCGA-AB-2943-03	RSAD2(+)ELMOD3(-) fusion (Unknown frame)	unknown	unknown	unknown	unknown
+EVI1	NA	washu.edu	TCGA-AB-2944-03	RPN1(+)EVI1(+) fusion (Out-of-frame)	unknown	unknown	unknown	unknown
+RUNX1T1	NA	washu.edu	TCGA-AB-2950-03	RUNX1(+)RUNX1T1(+) fusion (In-frame)	unknown	unknown	unknown	unknown
+LRRC37B	NA	washu.edu	TCGA-AB-2952-03	NF1(+)LRRC37B(+) fusion (In-frame)	unknown	unknown	unknown	unknown
+CBFB	NA	washu.edu	TCGA-AB-2954-03	MYH11(+)CBFB(+) fusion (Unknown frame)	unknown	unknown	unknown	unknown
+ZFP37	NA	washu.edu	TCGA-AB-2955-03	UBR4(+)ZFP37(+) fusion (Out-of-frame)	unknown	unknown	unknown	unknown
+MLLT3	NA	washu.edu	TCGA-AB-2956-03	MLL(-)MLLT3(-) fusion (Unknown frame)	unknown	unknown	unknown	unknown
+RDH11	NA	washu.edu	TCGA-AB-2956-03	VTI1B(-)RDH11(-) fusion (Unknown frame)	unknown	unknown	unknown	unknown
+GRIP2	NA	washu.edu	TCGA-AB-2975-03	BCL11A(-)GRIP2(-) fusion (Out-of-frame)	unknown	unknown	unknown	unknown
+SH3D19	NA	washu.edu	TCGA-AB-2979-03	LRBA(+)SH3D19(+) fusion (Out-of-frame)	unknown	unknown	unknown	unknown
+RARA	NA	washu.edu	TCGA-AB-2980-03	PML(+)RARA(+) fusion (Unknown frame)	unknown	unknown	unknown	unknown
+DPP6	NA	washu.edu	TCGA-AB-2982-03	CUL1(+)DPP6(-) fusion (Unknown frame)	unknown	unknown	unknown	unknown
+RARA	NA	washu.edu	TCGA-AB-2982-03	PML(-)RARA(-) fusion (Unknown frame)	unknown	unknown	unknown	unknown
+CEP164	NA	washu.edu	TCGA-AB-2985-03	MLLT10(+)CEP164(-) fusion (Out-of-frame)	unknown	unknown	unknown	unknown
+MLL	NA	washu.edu	TCGA-AB-2985-03	MLLT10(+)MLL(+) fusion (In-frame)	unknown	unknown	unknown	unknown
+RARA	NA	washu.edu	TCGA-AB-2991-03	PML(+)RARA(+) fusion (Unknown frame)	unknown	unknown	unknown	unknown
+RARA	NA	washu.edu	TCGA-AB-2994-03	PML(+)RARA(+) fusion (In-frame)	unknown	unknown	unknown	unknown
+RARA	NA	washu.edu	TCGA-AB-2998-03	PML(+)RARA(+) fusion (Unknown frame)	unknown	unknown	unknown	unknown
+RARA	NA	washu.edu	TCGA-AB-2999-03	PML(-)RARA(-) fusion (In-frame)	unknown	unknown	unknown	unknown
+RARA	NA	washu.edu	TCGA-AB-3001-03	PML(+)RARA(+) fusion (Unknown frame)	unknown	unknown	unknown	unknown
+MLL	NA	washu.edu	TCGA-AB-3005-03	MLLT10(+)MLL(+) fusion (In-frame)	unknown	unknown	unknown	unknown
+EXOC3L2	NA	washu.edu	TCGA-AB-3007-03	PLAUR(+)EXOC3L2(-) fusion (Unknown frame)	unknown	unknown	unknown	unknown
+RARA	NA	washu.edu	TCGA-AB-3007-03	PML(+)RARA(+) fusion (Unknown frame)	unknown	unknown	unknown	unknown
+RARA	NA	washu.edu	TCGA-AB-3012-03	PML(+)RARA(+) fusion (In-frame)	unknown	unknown	unknown	unknown
